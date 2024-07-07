@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Aryans-Registry',
+    description: 'The Private store for My supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://ArynKumr.github.io/Kasm-WS/',
+    contactUrl: 'https:/x.com/ArynKumr',
   },
   reactStrictMode: true,
   swcMinify: true,
